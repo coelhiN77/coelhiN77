@@ -15,11 +15,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{coelhiN77}/count.svg" /></p> 
-<br>
-</div>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts,css,html,react,nextjs,nodejs,graphql,apollo,mysql,mongodb,supabase,docker,linux,jest,firebase,figma,express,materialui,postgres&perline=10" />
+</p>
 
 ![Snake animation](https://github.com/coelhiN77/coelhiN77/blob/output/github-contribution-grid-snake.svg)
 
