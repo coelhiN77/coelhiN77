@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=DC143C&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+coelhiN;I'm+programmer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
@@ -20,4 +18,6 @@
 <br>
 </div>
 
-![snake_gif](https://github.com/coelhiN77/coelhiN77/blob/output/github-contribution-grid-snake.gif)
+![snake_gif](https://github.com/coelhiN77/coelhiN77/blob/output/github-contribution-grid-snake.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
